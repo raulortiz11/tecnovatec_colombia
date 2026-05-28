@@ -1,10 +1,17 @@
 # Jekyll configuration for GitHub Pages
-title: "Tecnovatec | Transformación Digital & Software"
+title: "Tecnovatec | Transformación Digital, Software & Cloud"
 description: "Tecnovatec potencia la transformación digital de empresas con desarrollo de software, cloud, DevOps, QA y consultoría tecnológica de clase enterprise. Desde 2013 en Colombia."
-url: "https://tecnovatec.github.io"
+url: "https://www.tecnovatec.com"
 baseurl: ""
 lang: "es-CO"
 author: "Tecnovatec SAS"
+email: "info@tecnovatec.com"
+
+# SEO settings
+locale: "es_CO"
+twitter_username: "tecnovatec"
+github_username: "raulortiz11"
+linkedin_username: "tecnovatec"
 
 # Build settings
 markdown: kramdown
