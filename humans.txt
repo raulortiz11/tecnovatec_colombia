@@ -1,0 +1,15 @@
+/* TEAM */
+
+CEO / Director: Tecnovatec SAS
+Contact: info [at] tecnovatec.com
+Location: Colombia
+Founded: May 2013
+
+/* SITE */
+
+Last update: 2025/05/25
+Standards: HTML5, CSS3, ES6+
+Components: Inter (Google Fonts), SVG Icons
+Software: VS Code, Git, GitHub Pages
+Doctype: HTML5
+Language: Spanish (Colombia)

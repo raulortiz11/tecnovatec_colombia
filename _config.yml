@@ -1,0 +1,17 @@
+# Jekyll configuration for GitHub Pages
+title: "Tecnovatec | Transformación Digital & Software"
+description: "Tecnovatec potencia la transformación digital de empresas con desarrollo de software, cloud, DevOps, QA y consultoría tecnológica de clase enterprise. Desde 2013 en Colombia."
+url: "https://tecnovatec.github.io"
+baseurl: ""
+lang: "es-CO"
+author: "Tecnovatec SAS"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - site_web_backup/
